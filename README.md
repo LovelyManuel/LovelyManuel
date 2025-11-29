@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi There! I am Lovely Antoinette M. Manuel
 
-<!--
-**LovelyManuel/LovelyManuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BS Information Technology student who is continuously learning and improving my skills. I'm always willing to learn more and take on new challenges in the IT field.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **BS Information Technology**  
+  New Era University  
+  *2024 – Present*
+
+
+## 📜 Certifications
+- **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/b5a2699e68d44280a0d95558d21f05fe) - Cognitive Class** 
+  
+
+
+## 🛠️ Skill Sets
+- Java    
+- Basic HTML/CSS  
+- SQL  
+- DB2   
+- Basic Figma  
+- IntelliJ IDEA  
+
+
+
