@@ -1,6 +1,6 @@
 # Hi There! I am Lovely Antoinette M. Manuel
 
-I'm a BS Information Technology student who is continuously learning and improving my skills. I'm always willing to learn more and take on new challenges in the IT field.
+I'm a 2nd year BS Information Technology student who is continuously learning and improving my skills. I'm always willing to learn more and take on new challenges in the IT field.
 
 
 ## 🎓 Education
