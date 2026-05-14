@@ -22,7 +22,9 @@ I'm a 2nd year BS Information Technology student who is continuously learning an
 - SQL  
 - DB2   
 - Basic Figma  
-- IntelliJ IDEA  
+- IntelliJ IDEA
+- Pentaho
+- Basic MongoDB
 
 ## 📧 You may reach me at:
 - LinkedIn: www.linkedin.com/in/lovely-manuel-230a38387
