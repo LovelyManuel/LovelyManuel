@@ -23,5 +23,9 @@ I'm a BS Information Technology student who is continuously learning and improvi
 - Basic Figma  
 - IntelliJ IDEA  
 
+## 📧 You may reach me at:
+- LinkedIn: www.linkedin.com/in/lovely-manuel-230a38387
+- Email: lovelymanuel099@gmail.com
+
 
 
