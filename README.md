@@ -6,7 +6,7 @@ I'm a 2nd year BS Information Technology student who is continuously learning an
 ## 🎓 Education
 - **BS Information Technology**  
   New Era University  
-  *2024 – Present*
+  *2026 – Present*
 
 
 ## 📜 Certifications
